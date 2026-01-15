@@ -1,7 +1,7 @@
 # Flux
 
 <p align="center">
-  <img src="assets/flux-logo.png" alt="Flux Logo" width="200" />
+  <img src="assets/Flux-Logo.png" alt="Flux Logo" width="200" />
 </p>
 
 Flux is a decentralized, event-native system where orchestration emerges from observation, response, and convergence rather than control.
